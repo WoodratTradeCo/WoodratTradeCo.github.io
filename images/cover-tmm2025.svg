@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b3001b"/>
+      <stop offset="100%" stop-color="#6b0012"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg3)"/>
+  <g stroke="#ffc9c9" stroke-width="2.5" fill="none">
+    <rect x="240" y="130" width="60" height="60" rx="6"/>
+    <rect x="150" y="180" width="60" height="60" rx="6"/>
+    <rect x="180" y="100" width="60" height="60" rx="6"/>
+  </g>
+  <circle cx="200" cy="160" r="55" fill="none" stroke="#ffffff" stroke-width="3" stroke-dasharray="12 10" opacity="0.85"/>
+  <text x="30" y="60" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">IEEE TMM 2025</text>
+  <text x="30" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffd0d0">IEEE Transactions on Multimedia</text>
+  <text x="30" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#ffc9c9">Purified Zero-Shot Sketch-Based Image Retrieval</text>
+</svg>
