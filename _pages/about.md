@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Yang Zhou (周阳)**. I am currently a Ph.D. student at **Sketch Lab, Zhejiang University**, and an algorithm intern at the **Qwen Business Unit, Alibaba Group**. I completed my master's degree at Zhejiang University. During my studies, I was awarded the **National Scholarship of Zhejiang University (Top 1%)**.
+Hi, I am **Yang Zhou (周阳)**. I am currently a Ph.D. student at **Sketch Lab, Zhejiang University**, and an algorithm intern at the **Qwen Group**. I completed my master's degree at Zhejiang University. During my studies, I was awarded the **National Scholarship of Zhejiang University (Top 1%)**.
 
 My research interests include **Large Language Models, Multimodal Large Models, AI Agents, and Reinforcement Learning**. To date, I have published or submitted **10+ papers** at top international AI venues such as *CVPR*, *ACM MM*, *KDD*, and *NeurIPS* ([Google Scholar](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en){: target="_blank" rel="noopener"}).
 
