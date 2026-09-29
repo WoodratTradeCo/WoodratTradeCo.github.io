@@ -14,7 +14,7 @@ Hi, I am **Yang Zhou (周阳)**. I am currently a Ph.D. student at **Sketch Lab,
 
 My research interests include **Large Language Models, Multimodal Large Models, AI Agents, and Reinforcement Learning**. To date, I have published or submitted **10+ papers** at top international AI venues such as *CVPR*, *ACM MM*, *KDD*, and *NeurIPS* ([Google Scholar](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en){: target="_blank" rel="noopener"}).
 
-After completing my Ph.D., I plan to join the **Qwen Group** <a href="https://www.alibaba.com/"><img class="svg" src="images/alibaba.png" width="48pt" style="vertical-align:middle"></a> or **TikTok** <a href="https://www.bytedance.com/"><img class="svg" src="images/bytedance.png" width="64pt" style="vertical-align:middle"></a>.
+After completing my Ph.D., I plan to join the **Qwen Group** <a href="https://www.alibaba.com/"><img class="svg" src="images/alibaba.png" width="48pt" style="vertical-align:middle"></a> or **TikTok** <a href="https://www.bytedance.com/"><img class="svg" src="images/bytedance.png" width="88pt" style="vertical-align:middle"></a>.
 
 My research focuses on:
 - Large Language Models (LLMs)
