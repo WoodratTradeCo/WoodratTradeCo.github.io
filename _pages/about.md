@@ -27,9 +27,9 @@ My research focuses on:
 <span class='anchor' id='-education'></span>
 
 # 🎓 Education
-- *2025.09 - 2027.06*, <a href="https://www.zju.edu.cn/"><img class="svg" src="images/zju.png" width="23pt"></a> Zhejiang University, Sketch Lab, Hangzhou, China, Ph.D.
-- *2022.09 - 2025.06*, <a href="https://www.zju.edu.cn/"><img class="svg" src="images/zju.png" width="23pt"></a> Zhejiang University, Hangzhou, China, M.S.
-- *2018.09 - 2022.06*, <a href="https://www.ahau.edu.cn/"><img class="svg" src="images/ahau.png" width="23pt"></a> Anhui Agricultural University, Hefei, China, B.S.
+- *2025.09 - 2027.06*, <a href="https://www.zju.edu.cn/"><img class="svg" src="images/zju.png" width="18pt"></a> Zhejiang University, Sketch Lab, Hangzhou, China, Ph.D.
+- *2022.09 - 2025.06*, <a href="https://www.zju.edu.cn/"><img class="svg" src="images/zju.png" width="18pt"></a> Zhejiang University, Hangzhou, China, M.S.
+- *2018.09 - 2022.06*, <a href="https://www.ahau.edu.cn/"><img class="svg" src="images/ahau.png" width="18pt"></a> Anhui Agricultural University, Hefei, China, B.S.
 
 
 <span class='anchor' id='-publications'></span>
