@@ -8,19 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Hi, I am **Yang Zhou (周阳)**. I am currently a Ph.D. student at **Sketch Lab, Zhejiang University**, and an algorithm intern at the **Qwen Business Unit, Alibaba Group**. I completed my master's study at Zhejiang University through an integrated master's–Ph.D. program. During my studies, I was awarded the **National Scholarship of Zhejiang University (Top 1%)**.
 
-My research interests include **Large Language Models, Multimodal Large Models, AI Agents, and Reinforcement Learning**. To date, I have published or submitted **10+ papers** at top international AI venues such as *CVPR*, *ACM MM*, *KDD*, and *NeurIPS*
- <a href='https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en' target='_blank' rel='noopener'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include **Large Language Models, Multimodal Large Models, AI Agents, and Reinforcement Learning**. To date, I have published or submitted **10+ papers** at top international AI venues such as *CVPR*, *ACM MM*, *KDD*, and *NeurIPS*. My publications are listed on [Google Scholar](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en){: target="_blank" rel="noopener"}.
 
 After completing my Ph.D., I plan to join the **Qwen Business Unit at Alibaba Group** or **TikTok at ByteDance**.
 
