@@ -12,9 +12,9 @@ redirect_from:
 
 Hi, I am **Yang Zhou (周阳)**. I am currently a Ph.D. student at **Sketch Lab, Zhejiang University**, and an algorithm intern at the **Qwen Business Unit, Alibaba Group**. I completed my master's degree at Zhejiang University. During my studies, I was awarded the **National Scholarship of Zhejiang University (Top 1%)**.
 
-My research interests include **Large Language Models, Multimodal Large Models, AI Agents, and Reinforcement Learning**. To date, I have published or submitted **10+ papers** at top international AI venues such as *CVPR*, *ACM MM*, *KDD*, and *NeurIPS*. My publications are listed on [Google Scholar](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en){: target="_blank" rel="noopener"}.
+My research interests include **Large Language Models, Multimodal Large Models, AI Agents, and Reinforcement Learning**. To date, I have published or submitted **10+ papers** at top international AI venues such as *CVPR*, *ACM MM*, *KDD*, and *NeurIPS* ([Google Scholar](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en){: target="_blank" rel="noopener"}).
 
-After completing my Ph.D., I plan to join the **Qwen Group** <a href="https://www.alibaba.com/"><img class="svg" src="images/alibaba.png" width="18pt"></a> or **TikTok** <a href="https://www.bytedance.com/"><img class="svg" src="images/bytedance.png" width="18pt"></a>.
+After completing my Ph.D., I plan to join the **Qwen Group** <a href="https://www.alibaba.com/"><img class="svg" src="images/alibaba.png" width="30pt" style="vertical-align:middle"></a> or **TikTok** <a href="https://www.bytedance.com/"><img class="svg" src="images/bytedance.png" width="30pt" style="vertical-align:middle"></a>.
 
 My research focuses on:
 - Large Language Models (LLMs)
@@ -141,5 +141,5 @@ Jingru Yang, Canfeng Cao, Canming Xu, Zhixian Xie, Kecheng Huang, `Yang Zhou`, S
 <span class='anchor' id='-internship'></span>
 
 # 💻 Internships
-- *2025.12 - 2026.07*, Algorithm Intern, **Qwen Group** <a href="https://www.alibaba.com/"><img class="svg" src="images/alibaba.png" width="18pt"></a>
+- *2025.12 - 2026.07*, Algorithm Intern, **Qwen Group** <a href="https://www.alibaba.com/"><img class="svg" src="images/alibaba.png" width="30pt" style="vertical-align:middle"></a>
 - *2024.06 - 2025.10*, Hanwang Technology Co., Ltd.
