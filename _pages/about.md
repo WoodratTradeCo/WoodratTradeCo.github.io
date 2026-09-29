@@ -20,7 +20,7 @@ redirect_from:
 Hi, I am **Yang Zhou (周阳)**. I am currently a Ph.D. student at **Sketch Lab, Zhejiang University**, and an algorithm intern at the **Qwen Business Unit, Alibaba Group**. I completed my master's study at Zhejiang University through an integrated master's–Ph.D. program. During my studies, I was awarded the **National Scholarship of Zhejiang University (Top 1%)**.
 
 My research interests include **Large Language Models, Multimodal Large Models, AI Agents, and Reinforcement Learning**. To date, I have published or submitted **10+ papers** at top international AI venues such as *CVPR*, *ACM MM*, *KDD*, and *NeurIPS*
- <a href='https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en' target='_blank' rel='noopener'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 After completing my Ph.D., I plan to join the **Qwen Business Unit at Alibaba Group** or **TikTok at ByteDance**.
 
@@ -45,35 +45,35 @@ My research focuses on:
 
 ### Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cover-cvpr2026.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Modeling the Visual Ambiguity of Human Sketches**  
 `Yang Zhou`, Peng Ni, Jin Wang, Sen Jia, Jie Yan, Kecheng Huang, Guodong Lu, Shengfeng He.  
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026. (CCF-A)  
-[[Scholar]](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en)
+[[Scholar]](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en){: target="_blank" rel="noopener"}
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/cover-mm2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Art4Math: Handwritten Mathematical Expression Recognition via Multimodal Sketch Grounding**  
 `Yang Zhou`, Jin Wang, Yuhan Zhang, Kecheng Huang, Guodong Lu, Jingru Yang, Shengfeng He.  
 *Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM)*, 2025: 1549-1558. (CCF-A)  
-[[Scholar]](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en)
+[[Scholar]](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en){: target="_blank" rel="noopener"}
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2025</div><img src='images/cover-tmm2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2025</div><img src='images/tmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Purified Zero-Shot Sketch-Based Image Retrieval**  
 `Yang Zhou`, Jingru Yang, Jin Wang, Kecheng Huang, Guodong Lu, Shengfeng He.  
-*IEEE Transactions on Multimedia (TMM)*, 2025, 28: 929-943. (SCI Q1)  
-[[Scholar]](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en)
+*IEEE Transactions on Multimedia (TMM)*, 2025, 28: 929-943. (CCF-A; SCI Q1)  
+[[Scholar]](https://scholar.google.com/citations?user=N1x3FZYAAAAJ&hl=en){: target="_blank" rel="noopener"}
 
 </div>
 </div>
@@ -132,7 +132,7 @@ Jingru Yang, Canfeng Cao, Canming Xu, Zhixian Xie, Kecheng Huang, `Yang Zhou`, S
 
 - **Neural-to-Symbolic Web Content Extraction at Billion Scale**  
 `Yang Zhou`, Zhixian Xie, Rijian Luo, Lei Yan, Pinhan Zhang, Xiaozhao Wang, Shengfeng He.  
-*KDD*, under review.
+*The 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2027. (CCF-A) under review.
 
 
 <span class='anchor' id='-honors'></span>
@@ -144,8 +144,7 @@ Jingru Yang, Canfeng Cao, Canming Xu, Zhixian Xie, Kecheng Huang, `Yang Zhou`, S
 <span class='anchor' id='-activities'></span>
 
 # 🏛️ Academic Activities
-<!-- Add invited talks, conference attendance, or reviewing service here. -->
-- (To be updated)
+- Reviewer: **IJCAI**, **NeurIPS**, **IEEE TNNLS** (IEEE Transactions on Neural Networks and Learning Systems)
 
 
 <span class='anchor' id='-internship'></span>
